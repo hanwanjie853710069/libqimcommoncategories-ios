@@ -399,7 +399,7 @@ static NSMutableDictionary *colorNameCache = nil;
 
 // Returns a UIColor by scanning the string for a hex number and passing that to +[UIColor colorWithRGBHex:]
 // Skips any leading whitespace and ignores any trailing characters
-+ (UIColor *)qim_colorWithHexString:(NSString *)stringToConvert 
++ (UIColor *)stimDB_colorWithHexString:(NSString *)stringToConvert 
 {
 	NSScanner *scanner = [NSScanner scannerWithString:stringToConvert];
 	unsigned hexNum;
