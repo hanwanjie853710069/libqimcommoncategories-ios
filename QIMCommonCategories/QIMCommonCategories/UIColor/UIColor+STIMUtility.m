@@ -170,4 +170,8 @@
     return [UIColor stimDB_colorWithHex:0xf4f4f4 alpha:1.0];
 }
 
++ (UIColor *)starTalkPrimyBlue{
+     return [UIColor stimDB_colorWithHex:0x00CABE alpha:1.0];
+}
+
 @end

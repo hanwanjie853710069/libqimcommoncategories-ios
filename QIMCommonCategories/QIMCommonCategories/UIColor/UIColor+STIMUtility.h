@@ -66,4 +66,6 @@
 
 + (UIColor *)qtalkChatBgColor;
 
++ (UIColor *)starTalkPrimyBlue;
+
 @end
