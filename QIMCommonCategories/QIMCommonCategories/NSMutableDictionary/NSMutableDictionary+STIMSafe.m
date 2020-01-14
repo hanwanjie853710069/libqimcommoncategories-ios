@@ -1,6 +1,6 @@
 //
 //  NSMutableDictionary+Safe.m
-//  qunarChatIphone
+//  STChatIphone
 //
 //  Created by xueping on 15/7/3.
 //

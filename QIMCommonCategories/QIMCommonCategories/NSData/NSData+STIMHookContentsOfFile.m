@@ -1,8 +1,8 @@
 //
 //  NSData+HookContentsOfFile.m
-//  qunarChatIphone
+//  STChatIphone
 //
-//  Created by 李露 on 2018/2/6.
+//  Created by 李海彬 on 2018/2/6.
 //
 
 #import "NSData+STIMHookContentsOfFile.h"

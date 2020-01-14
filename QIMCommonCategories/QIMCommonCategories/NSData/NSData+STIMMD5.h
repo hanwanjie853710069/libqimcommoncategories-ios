@@ -2,7 +2,7 @@
 //  NSData+STIMMD5.h
 //  STIMCommonCategories
 //
-//  Created by lilu on 2019/8/8.
+//  Created by lihaibin.li on 2019/8/8.
 //
 
 #import <Foundation/Foundation.h>
